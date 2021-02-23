@@ -20,6 +20,7 @@ public class BadCode : MonoBehaviour
         {
             LoopyLoop();
         }
+
     }
 
     void LoopyLoop()
